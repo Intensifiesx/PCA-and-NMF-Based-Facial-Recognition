@@ -1,6 +1,6 @@
 # Code Section
 ### PCA-NMF-Based-Facial-Recog.ipynb
-This file is to implement facial recognition in python using PCA.
+This file is to implement facial recognition in python using PCA and NMF.
 ![Accuracy_Facial](https://github.com/Intensifiesx/PCA-and-NMF-Based-Facial-Recognition/assets/55933220/83cb8093-9d7e-4da5-b8bf-735e02a9f635)
 ![MSE_Facial](https://github.com/Intensifiesx/PCA-and-NMF-Based-Facial-Recognition/assets/55933220/3184cd8c-f89d-46c0-997e-f6f178c52ebe)
 
